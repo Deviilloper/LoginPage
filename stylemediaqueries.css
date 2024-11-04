@@ -1,0 +1,312 @@
+@media (max-width:1340px){
+  .navbar li{
+    font-size: 0.9rem;
+  }
+  .navbar li:hover{
+    font-size: 1rem;
+  }
+  .heading h1{
+    font-size: 2rem;
+  }
+  .paragraph p{
+    font-size: 0.7rem;
+  }
+  .form input{
+    font-size: 0.7rem;
+  }
+  .form p{
+    font-size: 0.7rem;
+  }
+  .form h2{
+    font-size: 1.8rem;
+  }
+}
+@media (max-width: 1024px){
+  .navbar{
+    margin-bottom: 100px;
+  }
+  .navbar li{
+    font-size: 1rem;
+  }
+  .navbar li:hover{
+    font-size: 1.1rem;
+  }
+  .heading h1{
+    font-size: 2rem;
+  }
+  .paragraph p{
+    font-size: 0.9rem;
+  }
+}
+@media (max-width:940px){
+  .navbar li{
+    font-size: 0.7rem;
+  }
+  .navbar li:hover{
+    font-size: 0.9rem;
+  }
+  .heading h1{
+    font-size: 1.5rem;
+  }
+  .paragraph p{
+    font-size: 0.6rem;
+  }
+  .form input{
+    font-size: 0.6rem;
+  }
+  .form p{
+    font-size: 0.6rem;
+  }
+  .form h2{
+    font-size: 1.2rem;
+  }
+
+}
+@media (max-width:768px){
+  .navbar{
+    margin-bottom: 50px;
+  }
+  .main{
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    height: calc(200vh - 166.4px);
+  }
+  .navbar ul{
+    width:100%
+  }
+  .navbar li{
+    font-size: 0.9rem;
+  }
+  .navbar li:hover{
+    font-size: 1rem;
+  }
+  .heading h1{
+    font-size: 2.5rem;
+  }
+  .paragraph p{
+    font-size: 0.8rem;
+  }
+  .form input{
+    font-size: 0.8rem;
+  }
+  .form p{
+    font-size: 0.8rem;
+  }
+  .form h2{
+    font-size: 1.8rem;
+  }
+  .outer{
+    width: 90%;
+    height: 57vw;
+  }
+  .inner{
+    width: 60%;
+  }
+  .login{
+    width: 90%;
+    height: 57vw;
+  }
+  .image{
+    width: 45%;
+}
+.image img{
+    width:102%;
+    height: 100%;
+}
+.form {
+    width: 50%;
+}
+.form form{
+    width: 100%;
+    height: 100%;
+}
+
+}
+@media (max-width:640px){
+  .navbar{
+    margin-bottom: 50px;
+  }
+  .main{
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    height: calc(200vh - 166.4px);
+  }
+  .navbar ul{
+    width:100%
+  }
+  .navbar li{
+    font-size: 0.7rem;
+  }
+  .navbar li:hover{
+    font-size: 0.9rem;
+  }
+  .heading h1{
+    font-size: 1.5rem;
+  }
+  .paragraph p{
+    font-size: 0.6rem;
+  }
+  .form input{
+    font-size: 0.6rem;
+  }
+  .form p{
+    font-size: 0.6rem;
+  }
+  .form h2{
+    font-size: 1.2rem;
+  }
+  .outer{
+    width: 90%;
+    height: 57vw;
+  }
+  .inner{
+    width: 60%;
+  }
+  .login{
+    width: 90%;
+    height: 57vw;
+  }
+  .image{
+    width: 45%;
+}
+.image img{
+    width:102%;
+    height: 100%;
+}
+.form {
+    width: 50%;
+}
+.form form{
+    width: 100%;
+    height: 100%;
+}
+}
+@media (max-width:426px){
+  .navbar{
+    margin-bottom: 50px;
+  }
+  body{
+    height: 100vh;
+  }
+  .main{
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    height: calc(100vh - 166.4px);
+  }
+  .navbar ul{
+    width:100%
+  }
+  .navbar li{
+    font-size: 0.7rem;
+  }
+  .navbar li:hover{
+    font-size: 0.9rem;
+  }
+  .heading h1{
+    font-size: 1.7rem;
+  }
+  .paragraph p{
+    font-size: 0.7rem;
+  }
+  .form input{
+    font-size: 0.5rem;
+  }
+  .form p{
+    font-size: 0.5rem;
+  }
+  .form h2{
+    font-size: 1rem;
+  }
+  .outer{
+    width: 90%;
+    height: 57vw;
+  }
+  .inner{
+    width: 60%;
+  }
+  .login{
+    width: 90%;
+    height: 57vw;
+  }
+  .image{
+    width: 45%;
+}
+.image img{
+    width:102%;
+    height: 100%;
+}
+.form {
+    width: 50%;
+}
+.form form{
+    width: 100%;
+    height: 100%;
+}
+}
+@media (max-width : 376px){
+  body{
+    height: 100vh;
+  }
+  .navbar{
+    margin-bottom: 50px;
+  }
+  .main{
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+    height: calc(100vh - 166.4px);
+  }
+  .navbar ul{
+    width:100%
+  }
+  .navbar li{
+    font-size: 0.7rem;
+  }
+  .navbar li:hover{
+    font-size: 0.9rem;
+  }
+  .heading h1{
+    font-size: 1.5rem;
+  }
+  .paragraph p{
+    font-size: 0.6rem;
+  }
+  .form input{
+    font-size: 0.4rem;
+  }
+  .form p{
+    font-size: 0.4rem;
+  }
+  .form h2{
+    font-size: 0.9rem;
+  }
+  .outer{
+    width: 90%;
+    height: 57vw;
+  }
+  .inner{
+    width: 70%;
+    gap:20px;
+  }
+  .login{
+    width: 90%;
+    height: 57vw;
+  }
+  .image{
+    width: 45%;
+}
+.image img{
+    width:102%;
+    height: 100%;
+}
+.form {
+    width: 50%;
+}
+.form form{
+    width: 100%;
+    height: 100%;
+}
+}
